@@ -1,0 +1,20 @@
+ÁZ0Z<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:18;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-06 14:05:09";s:13:"post_date_gmt";s:19:"2016-01-06 14:05:09";s:12:"post_content";s:3103:"<h2>1. What is a cookie?</h2>
+Cookies are simple text files that a site saves to your computer or mobile device using your website browser. Most websites you visit will use cookies in order to improve your user experience by enabling that website to 'remember' you, either for the duration of your visit (using a 'session cookie') or for repeat visits (using a 'persistent cookie').
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website. Cookies make the interaction between you and the website faster and easier. If a website doesn't use cookies, it will think you are a new visitor every time you move to a new page on the site - for example, when you enter your login details and move to another page it won't recognise you and it won't be able to keep you logged in.
+<h2>2. How does this website use Cookies?</h2>
+Cookies enable us to identify your device, or you when you have logged in. We use cookies that are strictly necessary to enable you to move around the site or to provide certain basic features. We use cookies to enhance the functionality of the website. We also use cookies to help us to improve the performance of our website in order to provide you with a better user experience. Ticking the 'stay connected' box will use a cookie to keep you logged in. If you do not tick the box, that cookie is not used.
+<h2>3. How can I control cookies?</h2>
+Different browsers have different ways of allowing you to enable or delete cookies, or limit the kinds of cookies that can be placed on your computer. When choosing your browser (ie, Google Chrome or Safari), you may want to consider which best suits your privacy preferences.
+
+If you don't want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set. If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. However, if you disable cookies you may limit your browsing experience, but most browsers' settings will allow you to block third-party cookies without also disabling our first-party cookies.
+
+You may wish to visit some of the following links which contain comprehensive information about cookies and how you can manage your settings on a wide variety of desktop browsers.
+<h3>aboutcookies.org</h3>
+<a href="http://www.aboutcookies.org/default.aspx?page=1" target="_blank" rel="noopener noreferrer">How to control cookies</a>
+
+<a href="http://www.aboutcookies.org/default.aspx?page=2" target="_blank" rel="noopener noreferrer">How to delete cookies</a>
+
+<a href="http://www.aboutcookies.org/default.aspx?page=5" target="_blank" rel="noopener noreferrer">Cookies FAQs</a>
+<h3>ico.gov.uk</h3>
+<a href="https://ico.org.uk/for-the-public/online/cookies/" target="_blank" rel="noopener noreferrer">UK guidelines on cookies</a>";s:10:"post_title";s:13:"Cookie Policy";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"cookie-policy";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-05-02 10:02:50";s:17:"post_modified_gmt";s:19:"2017-05-02 09:02:50";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:56:"http://www.chobanian.co.uk/michael-walls.com/?page_id=18";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

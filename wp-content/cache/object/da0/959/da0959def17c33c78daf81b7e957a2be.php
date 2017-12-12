@@ -1,0 +1,7 @@
+kZ0Z<?php exit; ?>a:1:{s:7:"content";a:1:{s:22:"woocommerce_products-3";s:1237:"<div id="woocommerce_products-3" class="large-4 columns widget left woocommerce widget_products"><h3 class="widget-title">Book</h3><div class="tx-div small"></div><ul class="product_list_widget">
+<li>
+	<a href="http://localhost/michael_walls/product/a-somali-nation-state-history-culture-and-somalilands-political-transition/">
+		<img width="174" height="180" src="//localhost/michael_walls/wp-content/uploads/a-somali-nation-state-history-culture-and-somalilands-political-transition.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="A Somali Nation-State: History, Culture and Somaliland&#039;s Political Transition - Book Cover" srcset="//localhost/michael_walls/wp-content/uploads/a-somali-nation-state-history-culture-and-somalilands-political-transition.jpg 510w, //localhost/michael_walls/wp-content/uploads/a-somali-nation-state-history-culture-and-somalilands-political-transition-290x300.jpg 290w" sizes="(max-width: 174px) 100vw, 174px" />		<span class="product-title">A Somali Nation-State: History, culture and Somaliland's political transition</span>
+	</a>
+		<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</span></li>
+</ul></div>";}}

@@ -1,0 +1,62 @@
+12-12-2017 @ 21:54:36 - Queuing 2.5.0 - wc_update_250_currency
+12-12-2017 @ 21:54:36 - Queuing 2.5.0 - wc_update_250_db_version
+12-12-2017 @ 21:54:36 - Queuing 2.6.0 - wc_update_260_options
+12-12-2017 @ 21:54:36 - Queuing 2.6.0 - wc_update_260_termmeta
+12-12-2017 @ 21:54:36 - Queuing 2.6.0 - wc_update_260_zones
+12-12-2017 @ 21:54:36 - Queuing 2.6.0 - wc_update_260_zone_methods
+12-12-2017 @ 21:54:36 - Queuing 2.6.0 - wc_update_260_refunds
+12-12-2017 @ 21:54:36 - Queuing 2.6.0 - wc_update_260_db_version
+12-12-2017 @ 21:54:38 - Running wc_update_250_currency callback
+12-12-2017 @ 21:54:38 - Finished wc_update_250_currency callback
+12-12-2017 @ 21:54:38 - Running wc_update_250_db_version callback
+12-12-2017 @ 21:54:38 - Finished wc_update_250_db_version callback
+12-12-2017 @ 21:54:38 - Running wc_update_260_options callback
+12-12-2017 @ 21:54:38 - Finished wc_update_260_options callback
+12-12-2017 @ 21:54:38 - Running wc_update_260_termmeta callback
+12-12-2017 @ 21:54:38 - Finished wc_update_260_termmeta callback
+12-12-2017 @ 21:54:38 - Running wc_update_260_zones callback
+12-12-2017 @ 21:54:38 - Finished wc_update_260_zones callback
+12-12-2017 @ 21:54:38 - Running wc_update_260_zone_methods callback
+12-12-2017 @ 21:54:38 - Finished wc_update_260_zone_methods callback
+12-12-2017 @ 21:54:38 - Running wc_update_260_refunds callback
+12-12-2017 @ 21:54:38 - Finished wc_update_260_refunds callback
+12-12-2017 @ 21:54:38 - Running wc_update_260_db_version callback
+12-12-2017 @ 21:54:38 - Finished wc_update_260_db_version callback
+12-12-2017 @ 21:54:38 - Data update complete
+2017-12-12T22:03:42+00:00 INFO Queuing 3.0.0 - wc_update_300_webhooks
+2017-12-12T22:03:42+00:00 INFO Queuing 3.0.0 - wc_update_300_grouped_products
+2017-12-12T22:03:42+00:00 INFO Queuing 3.0.0 - wc_update_300_settings
+2017-12-12T22:03:42+00:00 INFO Queuing 3.0.0 - wc_update_300_product_visibility
+2017-12-12T22:03:42+00:00 INFO Queuing 3.0.0 - wc_update_300_db_version
+2017-12-12T22:03:42+00:00 INFO Queuing 3.1.0 - wc_update_310_downloadable_products
+2017-12-12T22:03:42+00:00 INFO Queuing 3.1.0 - wc_update_310_old_comments
+2017-12-12T22:03:42+00:00 INFO Queuing 3.1.0 - wc_update_310_db_version
+2017-12-12T22:03:42+00:00 INFO Queuing 3.1.2 - wc_update_312_shop_manager_capabilities
+2017-12-12T22:03:42+00:00 INFO Queuing 3.1.2 - wc_update_312_db_version
+2017-12-12T22:03:42+00:00 INFO Queuing 3.2.0 - wc_update_320_mexican_states
+2017-12-12T22:03:42+00:00 INFO Queuing 3.2.0 - wc_update_320_db_version
+2017-12-12T22:03:44+00:00 INFO Running wc_update_300_webhooks callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_300_webhooks callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_300_grouped_products callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_300_grouped_products callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_300_settings callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_300_settings callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_300_product_visibility callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_300_product_visibility callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_300_db_version callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_300_db_version callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_310_downloadable_products callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_310_downloadable_products callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_310_old_comments callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_310_old_comments callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_310_db_version callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_310_db_version callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_312_shop_manager_capabilities callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_312_shop_manager_capabilities callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_312_db_version callback
+2017-12-12T22:03:44+00:00 INFO Finished wc_update_312_db_version callback
+2017-12-12T22:03:44+00:00 INFO Running wc_update_320_mexican_states callback
+2017-12-12T22:03:45+00:00 INFO Finished wc_update_320_mexican_states callback
+2017-12-12T22:03:45+00:00 INFO Running wc_update_320_db_version callback
+2017-12-12T22:03:45+00:00 INFO Finished wc_update_320_db_version callback
+2017-12-12T22:03:45+00:00 INFO Data update complete
