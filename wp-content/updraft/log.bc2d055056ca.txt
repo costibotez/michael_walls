@@ -1,0 +1,97 @@
+0000.012 () Opened log file at time: Sat, 02 Dec 2017 17:08:27 +0000 on http://localhost/michael_walls
+0000.013 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.15 WP: 4.9.1 PHP: 7.1.0 (apache2handler, Darwin Costins-MacBook-Pro.local 17.2.0 Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64 x86_64) MySQL: 5.6.34 WPLANG: en_US Server: Apache/2.2.31 (Unix) mod_wsgi/3.5 Python/2.7.12 PHP/7.1.0 mod_ssl/2.2.31 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 6M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.013 () Free space on disk containing Updraft's temporary directory: 106330.9 MB
+0000.015 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.092 () Entity: db
+0000.092 () restore_backup(backup_file=backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-db.gz, type=db, info=a:0:{}, last_one=)
+0000.093 () Unpacking backup... (backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-db.gz, 0.1 Mb)
+0000.095 () Database successfully unpacked
+0000.095 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.095 () Using direct MySQL access; value of use_mysqli is: 1
+0000.127 () Max packet size: 32 MB
+0000.127 () Entering maintenance mode
+0000.127 () Enabling Maintenance mode&#8230;
+0000.128 () Backup of: http://www.michael-walls.com
+0000.165 () Content URL: http://www.michael-walls.com/wp-content
+0000.165 () Uploads URL: http://www.michael-walls.com/images
+0000.166 () Old table prefix: wp_
+0000.166 () Site information: multisite=0
+0000.168 () New table prefix: wp_
+0000.172 () Processing table (MyISAM): wp_options
+0000.310 () Restoring prior UD configuration (table: wp_options; keys: 90)
+0000.580 () Processing table (MyISAM): wp_users
+0000.601 () Processing table (MyISAM): wp_usermeta
+0000.658 () Processing table (MyISAM): wp_commentmeta
+0000.673 () Processing table (MyISAM): wp_comments
+0000.696 () Processing table (MyISAM): wp_links
+0000.723 () Processing table (MyISAM): wp_postmeta
+0000.871 () Processing table (MyISAM): wp_posts
+0000.921 () Processing table (MyISAM): wp_term_relationships
+0000.939 () Processing table (MyISAM): wp_term_taxonomy
+0000.957 () Processing table (MyISAM): wp_termmeta
+0000.976 () Processing table (MyISAM): wp_terms
+0001.000 () Processing table (MyISAM): wp_woocommerce_order_itemmeta
+0001.029 () Processing table (MyISAM): wp_woocommerce_payment_tokenmeta
+0001.045 () Processing table (MyISAM): wp_nf_objectmeta
+0001.064 () Database queries processed: 50 in 0.97 seconds
+0001.065 () Processing table (MyISAM): wp_nf_objects
+0001.082 () Processing table (MyISAM): wp_nf_relationships
+0001.098 () Processing table (MyISAM): wp_ninja_forms_fav_fields
+0001.115 () Processing table (MyISAM): wp_ninja_forms_fields
+0001.130 () Processing table (MyISAM): wp_social_users
+0001.143 () Processing table (MyISAM): wp_taxonomymeta
+0001.158 () Processing table (MyISAM): wp_woocommerce_api_keys
+0001.174 () Processing table (MyISAM): wp_woocommerce_attribute_taxonomies
+0001.189 () Processing table (MyISAM): wp_woocommerce_downloadable_product_permissions
+0001.204 () Processing table (MyISAM): wp_woocommerce_order_items
+0001.220 () Processing table (MyISAM): wp_woocommerce_payment_tokens
+0001.235 () Processing table (MyISAM): wp_woocommerce_sessions
+0001.274 () Processing table (MyISAM): wp_woocommerce_shipping_zone_locations
+0001.290 () Processing table (MyISAM): wp_woocommerce_shipping_zone_methods
+0001.306 () Processing table (MyISAM): wp_woocommerce_shipping_zones
+0001.321 () Processing table (MyISAM): wp_woocommerce_tax_rate_locations
+0001.336 () Processing table (MyISAM): wp_woocommerce_tax_rates
+0001.350 () Processing table (MyISAM): wp_woocommerce_termmeta
+0001.367 () Processing table (MyISAM): wp_yith_wcwl
+0001.381 () Processing table (MyISAM): wp_yith_wcwl_lists
+0001.396 () Database queries processed: 100 in 1.30 seconds
+0001.396 () Unlocking database and leaving maintenance mode
+0001.396 () Disabling Maintenance mode&#8230;
+0001.396 () Finished: lines processed: 100 in 1.30 seconds
+0001.397 () Cleaning up rubbish...
+0001.404 () Entity: plugins
+0001.404 () restore_backup(backup_file=backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:58:"/Applications/MAMP/htdocs/michael_walls/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0001.404 () Unpacking backup... (backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-plugins.zip, 21.8 Mb)
+0005.731 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.732 () Moving old data: can potentially use wp_filesystem method / -old
+0005.732 () Moving old data out of the way...
+0006.551 () Top-level entities being moved: index.php, akismet, updraftplus, hello.php
+0006.552 () Moving unpacked backup into place...
+0009.099 () Top-level entities being moved: taxonomy-metadata, woocommerce, index.php, better-delete-revision, yith-woocommerce-wishlist, wp-instagram-widget, regenerate-thumbnails, yith-woocommerce-ajax-search, wp-mail-smtp, nextend-facebook-connect, woosidebars, updraftplus, ninja-forms, flat-rate-per-countryregion-for-woocommerce, wordpress-seo
+0009.104 () Cleaning up rubbish...
+0009.107 () Entity: themes
+0009.107 () restore_backup(backup_file=backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-themes.zip, type=themes, info=a:2:{s:4:"path";s:57:"/Applications/MAMP/htdocs/michael_walls/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0009.108 () Unpacking backup... (backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-themes.zip, 2.7 Mb)
+0009.798 () Moving old data: filesystem method / updraft_dir is potentially possible
+0009.798 () Moving old data: can potentially use wp_filesystem method / -old
+0009.798 () Moving old data out of the way...
+0009.894 () Top-level entities being moved: twentyseventeen, twentysixteen, twentyfifteen, index.php
+0009.895 () Moving unpacked backup into place...
+0010.171 () Top-level entities being moved: michael-walls, index.php, flatsome
+0010.172 () Cleaning up rubbish...
+0010.174 () Entity: uploads
+0010.174 () restore_backup(backup_file=backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:58:"/Applications/MAMP/htdocs/michael_walls/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0010.174 () Unpacking backup... (backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-uploads.zip, 8.1 Mb)
+0010.386 () Using directory from backup: images
+0010.386 () Moving old data: filesystem method / updraft_dir is potentially possible
+0010.386 () Moving old data: can potentially use wp_filesystem method / -old
+0010.387 () Moving old data out of the way...
+0010.388 () Moving unpacked backup into place...
+0010.427 () Cleaning up rubbish...
+0010.429 () Entity: others
+0010.429 () restore_backup(backup_file=backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-others.zip, type=others, info=a:2:{s:4:"path";s:50:"/Applications/MAMP/htdocs/michael_walls/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0010.429 () Unpacking backup... (backup_2017-12-02-1706_Michael_Walls_PhD_058c677907a2-others.zip, 4.9 Mb)
+0010.610 () Cleaning up rubbish...
+0010.610 () Error: Failed to delete working directory after restoring. (/Applications/MAMP/htdocs/michael_walls/wp-content/upgrade/c91aae19)
+0010.622 () Restore successful!
+0010.622 () Restore successful
