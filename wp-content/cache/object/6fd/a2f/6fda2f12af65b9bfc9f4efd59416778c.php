@@ -1,1 +1,1 @@
-ÁZ0Z<?php exit; ?>a:1:{s:7:"content";a:4:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1452089856:1";}s:10:"_condition";a:1:{i:0;s:7:"post-20";}s:19:"_sidebar_to_replace";a:1:{i:0;s:12:"sidebar-main";}}}
+H1Z<?php exit; ?>a:1:{s:7:"content";a:4:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1452089856:1";}s:10:"_condition";a:1:{i:0;s:7:"post-20";}s:19:"_sidebar_to_replace";a:1:{i:0;s:12:"sidebar-main";}}}
