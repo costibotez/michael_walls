@@ -1,4 +1,4 @@
-H1Z<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:52;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-04-25 18:58:10";s:13:"post_date_gmt";s:19:"2016-04-25 17:58:10";s:12:"post_content";s:1060:"<strong>Run Doon Column</strong>
+”@>Z<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:52;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-04-25 18:58:10";s:13:"post_date_gmt";s:19:"2016-04-25 17:58:10";s:12:"post_content";s:1060:"<strong>Run Doon Column</strong>
 
 The Run Doon column appears in the <a href="http://anglosomalisociety.org.uk/Contents-of-Recent-Journals.php" target="_blank">Journal of the Anglo-Somali Society</a> twice a year, and will be re-published here. It aims to provide a brief snapshot of some of the major events in the Somali Horn of Africa over the six months since the previous edition.
 

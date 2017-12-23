@@ -1,4 +1,4 @@
-H1Z<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:20;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-06 14:06:04";s:13:"post_date_gmt";s:19:"2016-01-06 14:06:04";s:12:"post_content";s:1794:"[row ]
+”@>Z<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:20;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-06 14:06:04";s:13:"post_date_gmt";s:19:"2016-01-06 14:06:04";s:12:"post_content";s:1794:"[row ]
 <h2>Run Doon: a twice-yearly update on developments in the Somali Horn of Africa</h2>
 <a href="http://localhost/michael_walls/images/Run-Doon-180817_web.pdf" target="_blank" rel="noopener noreferrer">Current Affairs in the Horn of Africa by Run Doon - Autumn 201</a>7
 

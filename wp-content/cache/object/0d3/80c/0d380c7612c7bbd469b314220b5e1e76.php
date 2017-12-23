@@ -1,1 +1,0 @@
-H1Z<?php exit; ?>a:1:{s:7:"content";s:70:"a:2:{s:8:"flatsome";s:7:"/themes";s:13:"michael-walls";s:7:"/themes";}";}
